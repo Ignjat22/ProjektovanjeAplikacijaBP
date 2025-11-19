@@ -1,9 +1,261 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Page-1" id="B1T4mVPcCw8C2MofSeAZ">
-    <mxGraphModel>
+    <mxGraphModel dx="2037" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="112" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-1" value="Visina" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-3" value="Tezina" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.467;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-8" target="aR5CGMWhjAe0jLnTEnP3-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="240" as="targetPoint" />
+            <mxPoint x="1040" y="193" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="183" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="222" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-8" value="Da li trcis 50y za 10 sekundi?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1075" y="294" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1475" y="289" as="targetPoint" />
+            <mxPoint x="1486" y="242" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1475" y="266" />
+              <mxPoint x="1476" y="266" />
+              <mxPoint x="1476" y="289" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-9" value="Da limožeš da pomeraš telo i primenjuješ snagu dok se krećeš kroz protivničke linije?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="220" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-19" value="da (T, DE, FB, TE)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-20" value="ne(C, OG, DT/NT, LB&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="190" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-21" value="da (qb, wr,cb,s,rb)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="292" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="292" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-23" value="Da li možeš da sprintaš 40 metara za manje od 5 sekundi?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="222" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-30" value="ne (lb, ol , dl, k)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="140" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-33" value="da (WR, CB, RB)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="190" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-34" value="ne(QB, SS, FS)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-36" value="Da li možeš da promeniš pravac trčanja za manje od 0.5 sekundi dok sprintaš" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="432" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-37" value="Da li možeš precizno uhvatiti loptu dok trčiš maksimalnom brzinom?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="362" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-36" target="aR5CGMWhjAe0jLnTEnP3-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-40" value="Da li možeš da probiješ kroz kontakt sa najmanje 2 protivnika dok nosiš loptu?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="430" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.42;entryY=0.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-42" target="aR5CGMWhjAe0jLnTEnP3-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="562" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-42" value="Da li možeš da presretneš loptu ili pokriješ protivničkog igrača u pokretu?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="500" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="632" as="targetPoint" />
+            <mxPoint x="230" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-44" value="Da li možeš da startuješ sa mesta i postigneš maksimalnu brzinu za manje od 2 sekunde?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="550" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-46" value="Da li možeš da se krećeš brzo kroz gužvu i menjaš pravac bez gubitka brzine?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="640" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="372" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-50" value="Koliko brzo možeš da proceniš igru i reaguješ na poteze protivnika?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="442" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-53" value="Koliko brzo možeš da reaguješ na pokrete protivničkog igrača u odbrani?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="380" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="502" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-55" value="Koliko brzo možeš da dostigneš maksimalnu brzinu iz startne pozicije?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="440" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="572" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-57" value="Koliko precizno možeš da uhvatiš loptu u trku ili dok je u vazduhu?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="500" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="652" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-59" value="Koliko efikasno možeš da presretneš ili blokiraš pas protivnika?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="580" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-61" value="Koliko dugo možeš da održavaš visok intenzitet sprinta ili pokreta?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="650" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1065" y="336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-64" value="Možeš li brzo da se pomeraš bočno dok držiš ili blokiraš protivnika?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="875" y="286" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1065" y="386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-66" value="Možeš li brzo da se pokreneš i odmah primeniš snagu protiv protivnika?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="865" y="336" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1064.9999999999995" y="446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-68" value="Možeš li da probiješ ili zadržiš protivnika pri direktnom sudaru?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="885" y="386" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1064.9999999999995" y="506" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-72" value="Možeš li da održavaš visok intenzitet kontakta više od 10 sekundi?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="875" y="444" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aR5CGMWhjAe0jLnTEnP3-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1064.9999999999995" y="566" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-74" value="Možeš li da primeniš snagu u kratkom pokretu da probiješ liniju?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="885" y="504" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-76" value="Možeš li brzo da pokriješ određeni deo terena dok kontrolišeš protivnika?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="564" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="aR5CGMWhjAe0jLnTEnP3-78" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1475" y="339" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-78" value="Možeš li da reaguješ brzo kada se protivnik pomeri?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="289" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="aR5CGMWhjAe0jLnTEnP3-80" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1475" y="389" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-80" value="Možeš li da ostaneš stabilan dok blokiraš protivnika u uskom prostoru?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="339" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="aR5CGMWhjAe0jLnTEnP3-82" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1474.9999999999995" y="449" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-82" value="Možeš li da primeniš maksimalnu snagu u kratkom pokretu?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="389" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="aR5CGMWhjAe0jLnTEnP3-84" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1474.9999999999995" y="509" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-84" value="Možeš li da držiš liniju i zadržiš protivnika na svom mestu?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="447" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="aR5CGMWhjAe0jLnTEnP3-86" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1474.9999999999995" y="569" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-86" value="Možeš li efikasno koristiti ruke i telo da kontrolišeš protivnika?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="507" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aR5CGMWhjAe0jLnTEnP3-87" value="Možeš li brzo reagovati na pomeranje protivnika i prilagoditi svoju poziciju?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="569" width="420" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
